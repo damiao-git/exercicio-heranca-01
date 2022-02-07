@@ -1,0 +1,14 @@
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\bin\Debug\netcoreapp3.1\Exercicio131.exe
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\bin\Debug\netcoreapp3.1\Exercicio131.deps.json
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\bin\Debug\netcoreapp3.1\Exercicio131.runtimeconfig.json
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\bin\Debug\netcoreapp3.1\Exercicio131.runtimeconfig.dev.json
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\bin\Debug\netcoreapp3.1\Exercicio131.dll
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\bin\Debug\netcoreapp3.1\Exercicio131.pdb
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\obj\Debug\netcoreapp3.1\Exercicio131.csproj.AssemblyReference.cache
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\obj\Debug\netcoreapp3.1\Exercicio131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\obj\Debug\netcoreapp3.1\Exercicio131.AssemblyInfoInputs.cache
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\obj\Debug\netcoreapp3.1\Exercicio131.AssemblyInfo.cs
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\obj\Debug\netcoreapp3.1\Exercicio131.csproj.CoreCompileInputs.cache
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\obj\Debug\netcoreapp3.1\Exercicio131.dll
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\obj\Debug\netcoreapp3.1\Exercicio131.pdb
+C:\Users\Damião\Documents\ws-vs2019\Exercicio131\Exercicio131\obj\Debug\netcoreapp3.1\Exercicio131.genruntimeconfig.cache
